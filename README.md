@@ -14,7 +14,7 @@ Tip Calculator
 
 ### Links
 
-- Live Site URL: [Tip Calculator](https://olegbobokhidze.github.io/rating-comp/)
+- Live Site URL: [Tip Calculator](https://olegbobokhidze.github.io/tip-calculator-second/)
 
 
 ### Built with
